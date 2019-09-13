@@ -1,0 +1,6 @@
+C:\dania_training\web api\TddCalApp\TddCalApp.Library\bin\Debug\TddCalApp.Library.dll
+C:\dania_training\web api\TddCalApp\TddCalApp.Library\bin\Debug\TddCalApp.Library.pdb
+C:\dania_training\web api\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.csproj.CoreCompileInputs.cache
+C:\dania_training\web api\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.dll
+C:\dania_training\web api\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.pdb
+C:\dania_training\web api\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.csprojAssemblyReference.cache

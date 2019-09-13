@@ -1,0 +1,7 @@
+C:\dania_training\web api\TddCalApp\TddCalApp\bin\Debug\TddCalApp.exe.config
+C:\dania_training\web api\TddCalApp\TddCalApp\bin\Debug\TddCalApp.exe
+C:\dania_training\web api\TddCalApp\TddCalApp\bin\Debug\TddCalApp.pdb
+C:\dania_training\web api\TddCalApp\TddCalApp\obj\Debug\TddCalApp.csprojAssemblyReference.cache
+C:\dania_training\web api\TddCalApp\TddCalApp\obj\Debug\TddCalApp.csproj.CoreCompileInputs.cache
+C:\dania_training\web api\TddCalApp\TddCalApp\obj\Debug\TddCalApp.exe
+C:\dania_training\web api\TddCalApp\TddCalApp\obj\Debug\TddCalApp.pdb
